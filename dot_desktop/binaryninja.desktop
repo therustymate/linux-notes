@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Binary Ninja
+Comment=Reverse engineering platform
+Exec=/home/rusty/binaryninja/binaryninja
+Icon=/home/rusty/binaryninja/icon.png
+Terminal=false
+Categories=Development;Security;ReverseEngineering;
+StartupNotify=true
+Path=
